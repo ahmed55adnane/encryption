@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635695797 source:c:\users\hp\desktop\encryption\pkcs7_padding.c
+	"pkcs7_padding.h"
+
+1635695796 c:\users\hp\desktop\encryption\pkcs7_padding.h
+	<stdint.h>
+	<stddef.h>
+
